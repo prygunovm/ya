@@ -1,1 +1,2 @@
-let partners = ['ООО Новый Ай Ти Проект']
+let partners = ['ООО Новый Ай Ти Проект'];
+console.log('hi');
